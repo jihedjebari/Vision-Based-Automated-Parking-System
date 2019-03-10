@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- # @Mahdi:  just to make  the  compiler accepting some  chars 
 import numpy as np
 import cv2 as cv
 cap = cv.VideoCapture(0)
